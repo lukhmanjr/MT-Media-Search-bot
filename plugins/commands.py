@@ -103,7 +103,7 @@ async def start(bot, cmd):
                 [
                     [
                         InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("Bot Updates", url="https://t.me/Mo_Tech_YT")
+                        InlineKeyboardButton("Bot Updates", url="https://https://t.me/MOLLYWO")
                     ],
                     [
                         InlineKeyboardButton("About", callback_data="about")
